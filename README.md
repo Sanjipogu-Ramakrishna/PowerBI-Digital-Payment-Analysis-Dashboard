@@ -26,3 +26,7 @@ The business clients want to know where the highest digital payments were going 
 - Make sure data is consistent and clean with respect to the data type, data formate and values used.
 - Created charts and table according to the questions asked.
 - Merge all charts and table into one dashboard and apply slicers to make dynamic.
+
+  ## Dashboard
+  <img width="1834" height="1031" alt="Screenshot 2026-03-05 140145" src="https://github.com/user-attachments/assets/98b1912a-43d1-41da-ad9b-a0c5f61d83bb" />
+
